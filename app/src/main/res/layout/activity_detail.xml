@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    android:background="@drawable/gradient_deatil"
+    tools:context="com.example.user.employee_directory_ntpc.DetailActivity">
+    <ImageView
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_marginTop="72dp"
+        android:src="@drawable/srk"
+        android:id="@+id/image_de"
+        android:scaleType="centerCrop"
+        android:layout_gravity="center"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Kshitij sharma"
+        android:gravity="center"
+        android:id="@+id/name_de"
+
+        android:layout_margin="16dp"
+        android:textSize="25sp"
+        android:textStyle="bold"
+        android:textColor="@color/Black"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="IT department"
+        android:id="@+id/dep_de"
+
+        android:gravity="center"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:textColor="@color/Black"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="GRADE A"
+        android:id="@+id/garde_de"
+
+        android:layout_marginTop="8dp"
+        android:gravity="center"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:textColor="@color/Black"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="DETAILS"
+        android:textSize="25sp"
+        android:textStyle="bold"
+        android:textColor="@color/Black"
+        android:layout_marginLeft="16dp"/>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:layout_marginLeft="16dp"
+
+        android:background="@color/colorPrimary"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="16dp">
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/ic_call_black_24dp"
+            android:layout_marginLeft="16dp"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="(Mobile):"
+            android:textSize="15sp"
+            android:textColor="@color/Black"
+            android:layout_marginLeft="8dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="9953319602"
+            android:id="@+id/mob_call_de"
+            android:textSize="15sp"
+            android:gravity="right"
+            android:layout_marginRight="16dp"
+            android:textColor="@color/Black"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="16dp">
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/ic_message_black_24dp"
+            android:layout_marginLeft="16dp"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="(Mobile):"
+            android:textSize="15sp"
+            android:textColor="@color/Black"
+            android:layout_marginLeft="8dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="9953319602"
+            android:id="@+id/message_de"
+            android:textSize="15sp"
+            android:gravity="right"
+            android:layout_marginRight="16dp"
+            android:textColor="@color/Black"/>
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="16dp">
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/ic_email_black_24dp"
+            android:layout_marginLeft="16dp"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="(E-mail):"
+            android:textSize="15sp"
+            android:textColor="@color/Black"
+            android:layout_marginLeft="8dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/mail_de"
+
+            android:text="kshitj6325@gmail.com"
+            android:textSize="15sp"
+            android:gravity="right"
+            android:layout_marginRight="16dp"
+            android:textColor="@color/Black"/>
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="16dp">
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/ic_call_black_24dp"
+            android:layout_marginLeft="16dp"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="(Office):"
+            android:textSize="15sp"
+            android:textColor="@color/Black"
+            android:layout_marginLeft="8dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="9953319602"
+
+            android:id="@+id/office_call_de"
+            android:textSize="15sp"
+            android:gravity="right"
+            android:layout_marginRight="16dp"
+            android:textColor="@color/Black"/>
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="16dp">
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/ic_call_black_24dp"
+            android:layout_marginLeft="16dp"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="(Residential):"
+            android:textSize="15sp"
+            android:textColor="@color/Black"
+            android:layout_marginLeft="8dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="9953319602"
+            android:textSize="15sp"
+            android:gravity="right"
+            android:layout_marginRight="16dp"
+            android:id="@+id/resident_call_de"
+            android:textColor="@color/Black"/>
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="16dp">
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/ic_call_black_24dp"
+            android:layout_marginLeft="16dp"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="(Office):"
+            android:textSize="15sp"
+            android:textColor="@color/Black"
+            android:layout_marginLeft="8dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="9953319602"
+            android:textSize="15sp"
+            android:id="@+id/rax_office_de"
+            android:gravity="right"
+            android:layout_marginRight="16dp"
+            android:textColor="@color/Black"/>
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="16dp">
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/ic_call_black_24dp"
+            android:layout_marginLeft="16dp"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="(Residential):"
+            android:textSize="15sp"
+            android:textColor="@color/Black"
+            android:layout_marginLeft="8dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="9953319602"
+            android:id="@+id/rax_resident__de"
+            android:textSize="15sp"
+            android:gravity="right"
+            android:layout_marginRight="16dp"
+            android:textColor="@color/Black"/>
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="16dp">
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/ic_confirmation_number_black_24dp"
+            android:layout_marginLeft="16dp"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="(QTR NO.):"
+            android:textSize="15sp"
+            android:textColor="@color/Black"
+            android:layout_marginLeft="8dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="9953319602"
+            android:id="@+id/qtr_de"
+            android:textSize="15sp"
+            android:gravity="right"
+            android:layout_marginRight="16dp"
+            android:textColor="@color/Black"/>
+
+    </LinearLayout>
+
+
+
+
+
+
+</LinearLayout>
+</ScrollView>
