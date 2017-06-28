@@ -11,6 +11,7 @@ import android.widget.ArrayAdapter;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.Spinner;
+import android.widget.Toast;
 
 import static android.R.attr.button;
 
@@ -72,15 +73,22 @@ Spinner spinner,spinner_grade;
         bt.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent intent=new Intent(MainActivity.this,EmployeListActivity.class);
-                intent.putExtra("name",name.getText().toString());
-                intent.putExtra("mobile",mobile.getText().toString());
-                intent.putExtra("grade",grade);
-                intent.putExtra("department",department);
-                startActivity(intent);
+                if(name.getText().toString().equals("")|| mobile.getText().toString().equals("")){
+                    Toast.makeText(MainActivity.this,"Empty Field Not Allowed",Toast.LENGTH_SHORT).show();
+
+                }
+                else {
+                    Intent intent = new Intent(MainActivity.this, EmployeListActivity.class);
+                    intent.putExtra("name", name.getText().toString());
+                    intent.putExtra("mobile", mobile.getText().toString());
+                    intent.putExtra("grade", grade);
+                    intent.putExtra("department", department);
+                    startActivity(intent);
+                }
 
             }
         });
+
     }
 
     private void put_dummy_data(){

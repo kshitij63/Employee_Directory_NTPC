@@ -20,7 +20,7 @@
         android:layout_width="150dp"
         android:layout_height="150dp"
         android:layout_marginTop="72dp"
-        android:src="@drawable/srk"
+        android:src="@drawable/na"
         android:id="@+id/image_de"
         android:scaleType="centerCrop"
         android:layout_gravity="center"/>
