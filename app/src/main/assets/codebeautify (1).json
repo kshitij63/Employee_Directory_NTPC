@@ -1,0 +1,1578 @@
+[
+	{
+		"EMP_ID": "20328",
+		"EMP_NAME": "N N Rai ",
+		"DEPT_ID": "CEO OFFICE ",
+		"GRADE": "E8",
+		"PHONE_MOB": "7588007045",
+		"EMAIL_ID": "nnrai@ntpc.co.in "
+	},
+	{
+		"EMP_ID": "1617",
+		"EMP_NAME": "Kanchan Nath ",
+		"DEPT_ID": "O & M ",
+		"GRADE": "E8",
+		"PHONE_MOB": "8765985732",
+		"EMAIL_ID": "kanchannath@ntpc.co.in "
+	},
+	{
+		"EMP_ID": "2267",
+		"EMP_NAME": "Biswanath Chatterjee ",
+		"DEPT_ID": "O & M ",
+		"GRADE": "E8",
+		"PHONE_MOB": "8005493521",
+		"EMAIL_ID": "biswanathchatterjee@ntpc.co.in "
+	},
+	{
+		"EMP_ID": "2707",
+		"EMP_NAME": "Chilkunda Anantha Ramaiah Nagesha ",
+		"DEPT_ID": "PROJ CONST ",
+		"GRADE": "E8",
+		"PHONE_MOB": "9650993948",
+		"EMAIL_ID": "canagesha@ntpc.co.in "
+	},
+	{
+		"EMP_ID": "4073",
+		"EMP_NAME": "Velivala Sudharshanbabu ",
+		"DEPT_ID": "O & M ",
+		"GRADE": "E8",
+		"PHONE_MOB": "9440918073",
+		"EMAIL_ID": "vsudershanbabu@ntpc.co.in "
+	},
+	{
+		"EMP_ID": "32059",
+		"EMP_NAME": "N Natesan ",
+		"DEPT_ID": "PROJ CONST ",
+		"GRADE": "E8",
+		"PHONE_MOB": "9868391217",
+		"EMAIL_ID": "nnatesan@ntpc.co.in "
+	},
+	{
+		"EMP_ID": "2865",
+		"EMP_NAME": "Ramesh Kher ",
+		"DEPT_ID": "FUEL MANAGMENT ",
+		"GRADE": "E8",
+		"PHONE_MOB": "9650992865",
+		"EMAIL_ID": "rameshkher@ntpc.co.in "
+	},
+	{
+		"EMP_ID": "1893",
+		"EMP_NAME": "Gautam Vivek ",
+		"DEPT_ID": "BE ",
+		"GRADE": "E7",
+		"PHONE_MOB": "9650990930",
+		"EMAIL_ID": "gautamvivek@ntpc.co.in "
+	},
+	{
+		"EMP_ID": "3323",
+		"EMP_NAME": "Rajesh Kumar Jha ",
+		"DEPT_ID": "O & M ",
+		"GRADE": "E7",
+		"PHONE_MOB": "9415342046",
+		"EMAIL_ID": "rkjha02@ntpc.co.in "
+	},
+	{
+		"EMP_ID": "70717",
+		"EMP_NAME": "Murli Dhar Roy ",
+		"DEPT_ID": "P & S ",
+		"GRADE": "E7",
+		"PHONE_MOB": "9415130438",
+		"EMAIL_ID": "mdroy@ntpc.co.in "
+	},
+	{
+		"EMP_ID": "4580",
+		"EMP_NAME": "Shiv Prasad ",
+		"DEPT_ID": "R & R ",
+		"GRADE": "E7",
+		"PHONE_MOB": "9415501147",
+		"EMAIL_ID": "shivprasad@ntpc.co.in "
+	},
+	{
+		"EMP_ID": "12332",
+		"EMP_NAME": "Raj Kumar Pandey ",
+		"DEPT_ID": "C & I ERECT ",
+		"GRADE": "E7",
+		"PHONE_MOB": "'1111 ",
+		"EMAIL_ID": "rkpandey03@ntpc.co.in "
+	},
+	{
+		"EMP_ID": "3451",
+		"EMP_NAME": "Ashok Kumar ",
+		"DEPT_ID": "MECH ERECT ",
+		"GRADE": "E7",
+		"PHONE_MOB": "9415342193",
+		"EMAIL_ID": "ashokkumar03@ntpc.co.in "
+	},
+	{
+		"EMP_ID": "3947",
+		"EMP_NAME": "Sunil Kumar Singh ",
+		"DEPT_ID": "MECH ERECT ",
+		"GRADE": "E7",
+		"PHONE_MOB": "7525014537",
+		"EMAIL_ID": "sksingh11@ntpc.co.in "
+	},
+	{
+		"EMP_ID": "77024",
+		"EMP_NAME": "Arun Kumar Choudhry ",
+		"DEPT_ID": "CIVIL CONST ",
+		"GRADE": "E7",
+		"PHONE_MOB": "7525014522",
+		"EMAIL_ID": "akchowdhary01@ntpc.co.in "
+	},
+	{
+		"EMP_ID": "2084",
+		"EMP_NAME": "Kavita Madan ",
+		"DEPT_ID": "FINANCE ",
+		"GRADE": "E7",
+		"PHONE_MOB": "9650990413",
+		"EMAIL_ID": "kmadan@ntpc.co.in "
+	},
+	{
+		"EMP_ID": "3590",
+		"EMP_NAME": "Dinesh Kumar Gandhi ",
+		"DEPT_ID": "FQA ",
+		"GRADE": "E7",
+		"PHONE_MOB": "7317355944",
+		"EMAIL_ID": "dkgandhi@ntpc.co.in "
+	},
+	{
+		"EMP_ID": "5778",
+		"EMP_NAME": "Davendar Goel ",
+		"DEPT_ID": "FLD. ENGG. ",
+		"GRADE": "E7",
+		"PHONE_MOB": "7525014520",
+		"EMAIL_ID": "davendargoel@yahoo.co.in "
+	},
+	{
+		"EMP_ID": "5688",
+		"EMP_NAME": "Anurag Shukla ",
+		"DEPT_ID": "FINANCE ",
+		"GRADE": "E7",
+		"PHONE_MOB": "9415501201",
+		"EMAIL_ID": "anuragshukla3@rediffmail.com "
+	},
+	{
+		"EMP_ID": "32234",
+		"EMP_NAME": "Sanjay Shukla ",
+		"DEPT_ID": "PROJ CONST ",
+		"GRADE": "E7",
+		"PHONE_MOB": "9415501183",
+		"EMAIL_ID": "sanjayshukla@ntpc.co.in "
+	},
+	{
+		"EMP_ID": "5434",
+		"EMP_NAME": "Ranjit Singh Juneja ",
+		"DEPT_ID": "R & R ",
+		"GRADE": "E7",
+		"PHONE_MOB": "9415501203",
+		"EMAIL_ID": "rsjuneja@ntpc.co.in "
+	},
+	{
+		"EMP_ID": "20491",
+		"EMP_NAME": "Shashi Kant Pandey ",
+		"DEPT_ID": "MEDICAL ",
+		"GRADE": "E7",
+		"PHONE_MOB": "8004926918",
+		"EMAIL_ID": "skpandey03@ntpc.co.in "
+	},
+	{
+		"EMP_ID": "10074",
+		"EMP_NAME": "Sharad Mohan Garg ",
+		"DEPT_ID": "ELECT ERECT ",
+		"GRADE": "E7",
+		"PHONE_MOB": "8853844441",
+		"EMAIL_ID": "smgarg@ntpc.co.in "
+	},
+	{
+		"EMP_ID": "80195",
+		"EMP_NAME": "RANJAN BHATIA ",
+		"DEPT_ID": "CIVIL CONST ",
+		"GRADE": "E7",
+		"PHONE_MOB": "9793965888",
+		"EMAIL_ID": "ranjanbhatia@ntpc.co.in "
+	},
+	{
+		"EMP_ID": "55030",
+		"EMP_NAME": "Anand Sagar Pandey ",
+		"DEPT_ID": "MECH ERECT ",
+		"GRADE": "E7",
+		"PHONE_MOB": "9425818534",
+		"EMAIL_ID": "aspandey@ntpc.co.in "
+	},
+	{
+		"EMP_ID": "5611",
+		"EMP_NAME": "Ajay Kumar Agarwal ",
+		"DEPT_ID": "ELECT ERECT ",
+		"GRADE": "E7",
+		"PHONE_MOB": "7054757778",
+		"EMAIL_ID": "akagarwal07@ntpc.co.in "
+	},
+	{
+		"EMP_ID": "5876",
+		"EMP_NAME": "Vijay Kumar Garg ",
+		"DEPT_ID": "CHEMISTRY ",
+		"GRADE": "E7",
+		"PHONE_MOB": "9650993755",
+		"EMAIL_ID": "dr.gargvk@gmail.com "
+	},
+	{
+		"EMP_ID": "11081",
+		"EMP_NAME": "Ram Kishore Yadav ",
+		"DEPT_ID": "FUEL MANAGMENT ",
+		"GRADE": "E7",
+		"PHONE_MOB": "9450942881",
+		"EMAIL_ID": "rkyadav04@ntpc.co.in "
+	},
+	{
+		"EMP_ID": "6270",
+		"EMP_NAME": "Anil Kumar ",
+		"DEPT_ID": "O & M ",
+		"GRADE": "E7",
+		"PHONE_MOB": "9650994698",
+		"EMAIL_ID": "anilkumar02@ntpc.co.in "
+	},
+	{
+		"EMP_ID": "4800",
+		"EMP_NAME": "R K Bhanote ",
+		"DEPT_ID": "C&M ",
+		"GRADE": "E7",
+		"PHONE_MOB": "9650994598",
+		"EMAIL_ID": "rkbhanote@ntpc.co.in "
+	},
+	{
+		"EMP_ID": "6553",
+		"EMP_NAME": "Siddhartha Singh ",
+		"DEPT_ID": "FQA ",
+		"GRADE": "E7",
+		"PHONE_MOB": "9650992171",
+		"EMAIL_ID": "siddharthasingh@ntpc.co.in "
+	},
+	{
+		"EMP_ID": "12283",
+		"EMP_NAME": "Dinesh Chandra Pandey ",
+		"DEPT_ID": "P & S ",
+		"GRADE": "E7",
+		"PHONE_MOB": "9450963074",
+		"EMAIL_ID": "dcpandey@ntpc.co.in "
+	},
+	{
+		"EMP_ID": "80153",
+		"EMP_NAME": "Sanjaya Kumar Garg ",
+		"DEPT_ID": "O & M ",
+		"GRADE": "E7",
+		"PHONE_MOB": "9650993832",
+		"EMAIL_ID": "skgarg01@ntpc.co.in "
+	},
+	{
+		"EMP_ID": "11811",
+		"EMP_NAME": "Devi Deen Yadav ",
+		"DEPT_ID": "CIVIL CONST ",
+		"GRADE": "E7",
+		"PHONE_MOB": "9415342269",
+		"EMAIL_ID": "ddyadav01@ntpc.co.in "
+	},
+	{
+		"EMP_ID": "5921",
+		"EMP_NAME": "Shantanu Kumar Pandey ",
+		"DEPT_ID": "HR ",
+		"GRADE": "E7",
+		"PHONE_MOB": "9450962626",
+		"EMAIL_ID": "santanukpandey@ntpc.co.in "
+	},
+	{
+		"EMP_ID": "6474",
+		"EMP_NAME": "PRATEEK GUPTA ",
+		"DEPT_ID": "C & I ERECT ",
+		"GRADE": "E7",
+		"PHONE_MOB": "'1111 ",
+		"EMAIL_ID": "prateek@ntpc.co.in "
+	},
+	{
+		"EMP_ID": "12305",
+		"EMP_NAME": "Ram Vishal Keshkar ",
+		"DEPT_ID": "C&M ",
+		"GRADE": "E7",
+		"PHONE_MOB": "9450963055",
+		"EMAIL_ID": "rvkeshkar@ntpc.co.in "
+	},
+	{
+		"EMP_ID": "55029",
+		"EMP_NAME": "Gurmeet Singh ",
+		"DEPT_ID": "FLD. ENGG. ",
+		"GRADE": "E7",
+		"PHONE_MOB": "9650992396",
+		"EMAIL_ID": "gurmeetsingh04@ntpc.co.in "
+	},
+	{
+		"EMP_ID": "2019",
+		"EMP_NAME": "Keshav Kumar Guwalani ",
+		"DEPT_ID": "HR ",
+		"GRADE": "E7",
+		"PHONE_MOB": "7755822777",
+		"EMAIL_ID": "keshavkumar@ntpc.co.in "
+	},
+	{
+		"EMP_ID": "12287",
+		"EMP_NAME": "Jagannath Prasad Shukla ",
+		"DEPT_ID": "ELECT ERECT ",
+		"GRADE": "E7",
+		"PHONE_MOB": "7525008292",
+		"EMAIL_ID": "jpshukla@ntpc.co.in "
+	},
+	{
+		"EMP_ID": "6913",
+		"EMP_NAME": "Nagendra Kumar Mishra ",
+		"DEPT_ID": "FINANCE ",
+		"GRADE": "E7",
+		"PHONE_MOB": "8004924912",
+		"EMAIL_ID": "nagendra_069132@rediffmail.com "
+	},
+	{
+		"EMP_ID": "7084",
+		"EMP_NAME": "Dheeraj Kumar ",
+		"DEPT_ID": "IT ",
+		"GRADE": "E7",
+		"PHONE_MOB": "9422791790",
+		"EMAIL_ID": "dheerajs@ntpc.co.in "
+	},
+	{
+		"EMP_ID": "27117",
+		"EMP_NAME": "Kamlesh Dave ",
+		"DEPT_ID": "C&M ",
+		"GRADE": "E7",
+		"PHONE_MOB": "9403964689",
+		"EMAIL_ID": "kamleshdave@ntpc.co.in "
+	},
+	{
+		"EMP_ID": "61655",
+		"EMP_NAME": "Lallan Rai ",
+		"DEPT_ID": "HR ",
+		"GRADE": "E7",
+		"PHONE_MOB": "9415002917",
+		"EMAIL_ID": "lallanrai@ntpc.co.in "
+	},
+	{
+		"EMP_ID": "57698",
+		"EMP_NAME": "P R Singh ",
+		"DEPT_ID": "VIGILANCE ",
+		"GRADE": "E7",
+		"PHONE_MOB": "9450963099",
+		"EMAIL_ID": "prsingh@ntpc.co.in "
+	},
+	{
+		"EMP_ID": "60398",
+		"EMP_NAME": "Om Prakash Gupta ",
+		"DEPT_ID": "CIVIL CONST ",
+		"GRADE": "E7",
+		"PHONE_MOB": "8004926237",
+		"EMAIL_ID": "omprakashgupta@ntpc.co.in "
+	},
+	{
+		"EMP_ID": "57609",
+		"EMP_NAME": "Ravi Ahuja ",
+		"DEPT_ID": "MECH ERECT ",
+		"GRADE": "E7",
+		"PHONE_MOB": "9450963098",
+		"EMAIL_ID": "raviahuja@ntpc.co.in "
+	},
+	{
+		"EMP_ID": "6973",
+		"EMP_NAME": "Anurag Khare ",
+		"DEPT_ID": "ELECT ERECT ",
+		"GRADE": "E7",
+		"PHONE_MOB": "8004911417",
+		"EMAIL_ID": "anuragkhare02@ntpc.co.in "
+	},
+	{
+		"EMP_ID": "70222",
+		"EMP_NAME": "Ashok Kumar ",
+		"DEPT_ID": "MECH ERECT ",
+		"GRADE": "E7",
+		"PHONE_MOB": "8004945290",
+		"EMAIL_ID": "ashokkumar01@ntpc.co.in "
+	},
+	{
+		"EMP_ID": "80030",
+		"EMP_NAME": "Rakesh Khurana ",
+		"DEPT_ID": "CIVIL CONST ",
+		"GRADE": "E7",
+		"PHONE_MOB": "9650993083",
+		"EMAIL_ID": "rakeshkhurana@ntpc.co.in "
+	},
+	{
+		"EMP_ID": "80218",
+		"EMP_NAME": "Balbir Chand Galav ",
+		"DEPT_ID": "MECH ERECT ",
+		"GRADE": "E7",
+		"PHONE_MOB": "9650995314",
+		"EMAIL_ID": "bcgalav@ntpc.co.in "
+	},
+	{
+		"EMP_ID": "57529",
+		"EMP_NAME": "Jayanti Prasad Tripathi ",
+		"DEPT_ID": "OPERATION ",
+		"GRADE": "E7",
+		"PHONE_MOB": "9415501257",
+		"EMAIL_ID": "jptripathi@ntpc.co.in "
+	},
+	{
+		"EMP_ID": "21457",
+		"EMP_NAME": "Arun Kumar Gupta ",
+		"DEPT_ID": "OPERATION ",
+		"GRADE": "E7",
+		"PHONE_MOB": "9450925456",
+		"EMAIL_ID": "akgupta17@ntpc.co.in "
+	},
+	{
+		"EMP_ID": "54893",
+		"EMP_NAME": "Jagbir Singh Mann ",
+		"DEPT_ID": "R & R ",
+		"GRADE": "E7",
+		"PHONE_MOB": "9650994180",
+		"EMAIL_ID": "jsmann01@gmail.com "
+	},
+	{
+		"EMP_ID": "70311",
+		"EMP_NAME": "Prem Kumar Sharma ",
+		"DEPT_ID": "MECH ERECT ",
+		"GRADE": "E7",
+		"PHONE_MOB": "9450962645",
+		"EMAIL_ID": "pksharma06@ntpc.co.in "
+	},
+	{
+		"EMP_ID": "7458",
+		"EMP_NAME": "Pankaj Kumar ",
+		"DEPT_ID": "HR ",
+		"GRADE": "E7",
+		"PHONE_MOB": "9418141785",
+		"EMAIL_ID": "pankajkarora@ntpc.co.in "
+	},
+	{
+		"EMP_ID": "12838",
+		"EMP_NAME": "Sanjay Srivastav ",
+		"DEPT_ID": "C & I MAINT ",
+		"GRADE": "E7",
+		"PHONE_MOB": "'1111 ",
+		"EMAIL_ID": "sanjaysrivastava01@ntpc.co.in "
+	},
+	{
+		"EMP_ID": "7659",
+		"EMP_NAME": "Manoj Kumar Singh ",
+		"DEPT_ID": "O & M ",
+		"GRADE": "E7",
+		"PHONE_MOB": "7571908332",
+		"EMAIL_ID": "mksingh08@ntpc.co.in "
+	},
+	{
+		"EMP_ID": "7655",
+		"EMP_NAME": "Amit Kumar ",
+		"DEPT_ID": "C & I MAINT ",
+		"GRADE": "E7",
+		"PHONE_MOB": "9425553671",
+		"EMAIL_ID": "amitkumar05@ntpc.co.in "
+	},
+	{
+		"EMP_ID": "7510",
+		"EMP_NAME": "Vijay Verma ",
+		"DEPT_ID": "OPERATION ",
+		"GRADE": "E7",
+		"PHONE_MOB": "9450916637",
+		"EMAIL_ID": "vijayvijay@ntpc.co.in "
+	},
+	{
+		"EMP_ID": "6939",
+		"EMP_NAME": "Sweta Lal ",
+		"DEPT_ID": "CIVIL CONST ",
+		"GRADE": "E7",
+		"PHONE_MOB": "9650991201",
+		"EMAIL_ID": "swetalal@ntpc.co.in "
+	},
+	{
+		"EMP_ID": "7453",
+		"EMP_NAME": "Sanjay Kumar ",
+		"DEPT_ID": "OPERATION ",
+		"GRADE": "E7",
+		"PHONE_MOB": "9650990766",
+		"EMAIL_ID": "sanjaykumar@ntpc.co.in "
+	},
+	{
+		"EMP_ID": "80448",
+		"EMP_NAME": "Sunjay Kumar Sharma ",
+		"DEPT_ID": "ELECT MAINT ",
+		"GRADE": "E7",
+		"PHONE_MOB": "9650990919",
+		"EMAIL_ID": "sunjaysharma@ntpc.co.in "
+	},
+	{
+		"EMP_ID": "103880",
+		"EMP_NAME": "Akhilesh Bahad ",
+		"DEPT_ID": "CIVIL CONST ",
+		"GRADE": "E7",
+		"PHONE_MOB": "8004928755",
+		"EMAIL_ID": "akhileshbahad@ntpc.co.in "
+	},
+	{
+		"EMP_ID": "104285",
+		"EMP_NAME": "Sachin Vyas ",
+		"DEPT_ID": "CIVIL CONST ",
+		"GRADE": "E7",
+		"PHONE_MOB": "8004928373",
+		"EMAIL_ID": "sachinvyas@ntpc.co.in "
+	},
+	{
+		"EMP_ID": "7650",
+		"EMP_NAME": "Ram Shabad Yadav ",
+		"DEPT_ID": "C & I ERECT ",
+		"GRADE": "E7",
+		"PHONE_MOB": "9437960975",
+		"EMAIL_ID": "rsyadav02@ntpc.co.in "
+	},
+	{
+		"EMP_ID": "7906",
+		"EMP_NAME": "Satya Brat Yadav ",
+		"DEPT_ID": "HR ",
+		"GRADE": "E7",
+		"PHONE_MOB": "9415246545",
+		"EMAIL_ID": "sbyadav@ntpc.co.in "
+	},
+	{
+		"EMP_ID": "7810",
+		"EMP_NAME": "Rajeev Kumar Pandey ",
+		"DEPT_ID": "HR ",
+		"GRADE": "E7",
+		"PHONE_MOB": "9650994412",
+		"EMAIL_ID": "rajeevpandey@ntpc.co.in "
+	},
+	{
+		"EMP_ID": "7837",
+		"EMP_NAME": "Vikas Dwivedi ",
+		"DEPT_ID": "OPERATION ",
+		"GRADE": "E7",
+		"PHONE_MOB": "9425823800",
+		"EMAIL_ID": "vikasdwivedi@ntpc.co.in "
+	},
+	{
+		"EMP_ID": "54693",
+		"EMP_NAME": "Sudhir Kumar Gupta ",
+		"DEPT_ID": "MECH ERECT ",
+		"GRADE": "E7",
+		"PHONE_MOB": "9415132535",
+		"EMAIL_ID": "skgupta02@ntpc.co.in "
+	},
+	{
+		"EMP_ID": "21387",
+		"EMP_NAME": "Abhay Kumar Dubey ",
+		"DEPT_ID": "C&M ",
+		"GRADE": "E7",
+		"PHONE_MOB": "9415245935",
+		"EMAIL_ID": "akdubey02@ntpc.co.in "
+	},
+	{
+		"EMP_ID": "7529",
+		"EMP_NAME": "Manoj Kumar ",
+		"DEPT_ID": "ELECT ERECT ",
+		"GRADE": "E7",
+		"PHONE_MOB": "9450963020",
+		"EMAIL_ID": "manojkumar02@ntpc.co.in "
+	},
+	{
+		"EMP_ID": "57644",
+		"EMP_NAME": "Mohammed Yusuf Khan ",
+		"DEPT_ID": "MECH ERECT ",
+		"GRADE": "E7",
+		"PHONE_MOB": "7388953314",
+		"EMAIL_ID": "yusufkhan@ntpc.co.in "
+	},
+	{
+		"EMP_ID": "8188",
+		"EMP_NAME": "Tarun Kant Gupta ",
+		"DEPT_ID": "CIVIL CONST ",
+		"GRADE": "E7",
+		"PHONE_MOB": "7897031440",
+		"EMAIL_ID": "tkgupta@ntpc.co.in "
+	},
+	{
+		"EMP_ID": "8184",
+		"EMP_NAME": "Sushil Kumar ",
+		"DEPT_ID": "FUEL MANAGMENT ",
+		"GRADE": "E7",
+		"PHONE_MOB": "7525014535",
+		"EMAIL_ID": "sushilkumar03@ntpc.co.in "
+	},
+	{
+		"EMP_ID": "8209",
+		"EMP_NAME": "Rahul Gautam ",
+		"DEPT_ID": "FUEL MANAGMENT ",
+		"GRADE": "E7",
+		"PHONE_MOB": "8400998755",
+		"EMAIL_ID": "rahulgautam@ntpc.co.in "
+	},
+	{
+		"EMP_ID": "8116",
+		"EMP_NAME": "Ashutosh Mani Tripathi ",
+		"DEPT_ID": "MECH ERECT ",
+		"GRADE": "E7",
+		"PHONE_MOB": "9936542482",
+		"EMAIL_ID": "amtripathi@ntpc.co.in "
+	},
+	{
+		"EMP_ID": "8159",
+		"EMP_NAME": "Saurabh Gupta ",
+		"DEPT_ID": "CIVIL CONST ",
+		"GRADE": "E7",
+		"PHONE_MOB": "9650992871",
+		"EMAIL_ID": "saurabhgupta@ntpc.co.in "
+	},
+	{
+		"EMP_ID": "57629",
+		"EMP_NAME": "Kamalesh Rai ",
+		"DEPT_ID": "C&M ",
+		"GRADE": "E7",
+		"PHONE_MOB": "8004911642",
+		"EMAIL_ID": "kamaleshrai@ntpc.co.in "
+	},
+	{
+		"EMP_ID": "61039",
+		"EMP_NAME": "Surendra Singh Yadav ",
+		"DEPT_ID": "MECH ERECT ",
+		"GRADE": "E7",
+		"PHONE_MOB": "9412771517",
+		"EMAIL_ID": "ssyadav@ntpc.co.in "
+	},
+	{
+		"EMP_ID": "57834",
+		"EMP_NAME": "Ayodhya Prasad ",
+		"DEPT_ID": "CIVIL CONST ",
+		"GRADE": "E7",
+		"PHONE_MOB": "9450925485",
+		"EMAIL_ID": "ayodhyaprasad01@ntpc.co.in "
+	},
+	{
+		"EMP_ID": "8731",
+		"EMP_NAME": "VIJAY KUMAR CHAUHAN ",
+		"DEPT_ID": "FINANCE ",
+		"GRADE": "E7",
+		"PHONE_MOB": "9450916580",
+		"EMAIL_ID": "vkchauhan@ntpc.co.in "
+	},
+	{
+		"EMP_ID": "8723",
+		"EMP_NAME": "Javed Ahmad Samdani ",
+		"DEPT_ID": "HR ",
+		"GRADE": "E7",
+		"PHONE_MOB": "'1111 ",
+		"EMAIL_ID": "jasamdani@ntpc.co.in "
+	},
+	{
+		"EMP_ID": "8766",
+		"EMP_NAME": "Ankur Aggarwal ",
+		"DEPT_ID": "CIVIL CONST ",
+		"GRADE": "E7",
+		"PHONE_MOB": "8004926865",
+		"EMAIL_ID": "ankuraggarwal@ntpc.co.in "
+	},
+	{
+		"EMP_ID": "8546",
+		"EMP_NAME": "Manoj Kumar Yadav ",
+		"DEPT_ID": "MECH ERECT ",
+		"GRADE": "E7",
+		"PHONE_MOB": "7525014533",
+		"EMAIL_ID": "manojkumaryadav@ntpc.co.in "
+	},
+	{
+		"EMP_ID": "60701",
+		"EMP_NAME": "Mahendra Babu Gupta ",
+		"DEPT_ID": "FUEL MANAGMENT ",
+		"GRADE": "E7",
+		"PHONE_MOB": "9450963081",
+		"EMAIL_ID": "mbgupta@ntpc.co.in "
+	},
+	{
+		"EMP_ID": "8198",
+		"EMP_NAME": "Amit Kumar ",
+		"DEPT_ID": "FUEL MANAGMENT ",
+		"GRADE": "E7",
+		"PHONE_MOB": "9418046594",
+		"EMAIL_ID": "amitkumar@ntpc.co.in "
+	},
+	{
+		"EMP_ID": "90675",
+		"EMP_NAME": "Mukesh Kanchan ",
+		"DEPT_ID": "FUEL MANAGMENT ",
+		"GRADE": "E7",
+		"PHONE_MOB": "9415005760",
+		"EMAIL_ID": "mukeshkanchan@ntpc.co.in "
+	},
+	{
+		"EMP_ID": "8605",
+		"EMP_NAME": "Deepak Rai ",
+		"DEPT_ID": "CIVIL CONST ",
+		"GRADE": "E7",
+		"PHONE_MOB": "7525014513",
+		"EMAIL_ID": "deepakrai@ntpc.co.in "
+	},
+	{
+		"EMP_ID": "8796",
+		"EMP_NAME": "Rajneesh Goyal ",
+		"DEPT_ID": "C&M ",
+		"GRADE": "E7",
+		"PHONE_MOB": "7081493999",
+		"EMAIL_ID": "rajneeshgoyal@ntpc.co.in "
+	},
+	{
+		"EMP_ID": "60584",
+		"EMP_NAME": "Sanjay Joshi ",
+		"DEPT_ID": "C & I ERECT ",
+		"GRADE": "E7",
+		"PHONE_MOB": "9650994354",
+		"EMAIL_ID": "sanjayjoshi@ntpc.co.in "
+	},
+	{
+		"EMP_ID": "70504",
+		"EMP_NAME": "Hardeo Prasad ",
+		"DEPT_ID": "MECH MAINT ",
+		"GRADE": "E7",
+		"PHONE_MOB": "9450925435",
+		"EMAIL_ID": "hardeoprasad@ntpc.co.in "
+	},
+	{
+		"EMP_ID": "58161",
+		"EMP_NAME": "Anil Kumar Srivastava ",
+		"DEPT_ID": "ELECT MAINT ",
+		"GRADE": "E7",
+		"PHONE_MOB": "9450916496",
+		"EMAIL_ID": "aksrivastava12@ntpc.co.in "
+	},
+	{
+		"EMP_ID": "9025",
+		"EMP_NAME": "DHIRENDRA SINGH ",
+		"DEPT_ID": "O & M ",
+		"GRADE": "E7",
+		"PHONE_MOB": "9650992029",
+		"EMAIL_ID": "dhirendrasingh01@ntpc.co.in "
+	},
+	{
+		"EMP_ID": "9219",
+		"EMP_NAME": "SANJEEV SINGH ",
+		"DEPT_ID": "MECH ERECT ",
+		"GRADE": "E7",
+		"PHONE_MOB": "8004945112",
+		"EMAIL_ID": "sanjeevksingh@ntpc.co.in "
+	},
+	{
+		"EMP_ID": "9313",
+		"EMP_NAME": "PANKAJ KUMAR SINGH CHAUHAN ",
+		"DEPT_ID": "COMMS & TEST. ",
+		"GRADE": "E7",
+		"PHONE_MOB": "9650993742",
+		"EMAIL_ID": "pankajsinghchauhan@ntpc.co.in "
+	},
+	{
+		"EMP_ID": "9129",
+		"EMP_NAME": "Arun Kumar Sharma ",
+		"DEPT_ID": "ELECT MAINT ",
+		"GRADE": "E7",
+		"PHONE_MOB": "9650992528",
+		"EMAIL_ID": "arunkrsharma@ntpc.co.in "
+	},
+	{
+		"EMP_ID": "9143",
+		"EMP_NAME": "MANOJ KUMAR ",
+		"DEPT_ID": "O & M ",
+		"GRADE": "E7",
+		"PHONE_MOB": "9650993366",
+		"EMAIL_ID": "manojkumar17@ntpc.co.in "
+	},
+	{
+		"EMP_ID": "57838",
+		"EMP_NAME": "Anil Kumar Mishra ",
+		"DEPT_ID": "HR ",
+		"GRADE": "E7",
+		"PHONE_MOB": "9450916662",
+		"EMAIL_ID": "akmishra15@ntpc.co.in "
+	},
+	{
+		"EMP_ID": "80140",
+		"EMP_NAME": "R C Kaloni ",
+		"DEPT_ID": "TAD ",
+		"GRADE": "E7",
+		"PHONE_MOB": "9650995053",
+		"EMAIL_ID": "rameshckaloni@ntpc.co.in "
+	},
+	{
+		"EMP_ID": "61061",
+		"EMP_NAME": "Purushottam Singh ",
+		"DEPT_ID": "C&M ",
+		"GRADE": "E7",
+		"PHONE_MOB": "9415233704",
+		"EMAIL_ID": "purushothamsingh@ntpc.co.in "
+	},
+	{
+		"EMP_ID": "9412",
+		"EMP_NAME": "DHEERAJ SHARMA ",
+		"DEPT_ID": "IT ",
+		"GRADE": "E7",
+		"PHONE_MOB": "9440918675",
+		"EMAIL_ID": "dheerajsharma@ntpc.co.in "
+	},
+	{
+		"EMP_ID": "9050",
+		"EMP_NAME": "DEEPAK GUPTA ",
+		"DEPT_ID": "ELECT MAINT ",
+		"GRADE": "E7",
+		"PHONE_MOB": "9650992700",
+		"EMAIL_ID": "deepakgupta01@ntpc.co.in "
+	},
+	{
+		"EMP_ID": "61422",
+		"EMP_NAME": "M S Jatav ",
+		"DEPT_ID": "MECH MAINT ",
+		"GRADE": "E7",
+		"PHONE_MOB": "9425553490",
+		"EMAIL_ID": "msjatav@ntpc.co.in "
+	},
+	{
+		"EMP_ID": "58129",
+		"EMP_NAME": "Najeeb Ashraf ",
+		"DEPT_ID": "OPERATION ",
+		"GRADE": "E7",
+		"PHONE_MOB": "9453022003",
+		"EMAIL_ID": "najeebashraf@ntpc.co.in "
+	},
+	{
+		"EMP_ID": "9260",
+		"EMP_NAME": "VIJENDER SINGH ",
+		"DEPT_ID": "FLD. ENGG. ",
+		"GRADE": "E7",
+		"PHONE_MOB": "9650992012",
+		"EMAIL_ID": "vijendersingh@ntpc.co.in "
+	},
+	{
+		"EMP_ID": "9111",
+		"EMP_NAME": "Manish Kumar Singh ",
+		"DEPT_ID": "FUEL MANAGMENT ",
+		"GRADE": "E7",
+		"PHONE_MOB": "7525014527",
+		"EMAIL_ID": "manishksingh01@ntpc.co.in "
+	},
+	{
+		"EMP_ID": "102968",
+		"EMP_NAME": "Kumar Bandhu ",
+		"DEPT_ID": "FUEL MANAGMENT ",
+		"GRADE": "E7",
+		"PHONE_MOB": "8756038620",
+		"EMAIL_ID": "kumarbandhu@ntpc.co.in "
+	},
+	{
+		"EMP_ID": "58073",
+		"EMP_NAME": "Anil Kumar ",
+		"DEPT_ID": "OPERATION ",
+		"GRADE": "E7",
+		"PHONE_MOB": "9650994356",
+		"EMAIL_ID": "anilkumar2@ntpc.co.in "
+	},
+	{
+		"EMP_ID": "9733",
+		"EMP_NAME": "MITALI KONWAR ",
+		"DEPT_ID": "HR ",
+		"GRADE": "E7",
+		"PHONE_MOB": "9650993516",
+		"EMAIL_ID": "mitalikonwar@ntpc.co.in "
+	},
+	{
+		"EMP_ID": "9668",
+		"EMP_NAME": "SANJAY KUMAR RAJAK ",
+		"DEPT_ID": "CIVIL CONST ",
+		"GRADE": "E7",
+		"PHONE_MOB": "7525014521",
+		"EMAIL_ID": "sanjaykumarrajak@ntpc.co.in "
+	},
+	{
+		"EMP_ID": "9570",
+		"EMP_NAME": "Santosh Kumar Singh ",
+		"DEPT_ID": "OPERATION ",
+		"GRADE": "E7",
+		"PHONE_MOB": "9415140511",
+		"EMAIL_ID": "sksingh17@ntpc.co.in "
+	},
+	{
+		"EMP_ID": "9593",
+		"EMP_NAME": "ASHOK VERMA ",
+		"DEPT_ID": "ELECT MAINT ",
+		"GRADE": "E7",
+		"PHONE_MOB": "9650995098",
+		"EMAIL_ID": "ashokverma@ntpc.co.in "
+	},
+	{
+		"EMP_ID": "9749",
+		"EMP_NAME": "ARVIND PRAKASH BHARTI ",
+		"DEPT_ID": "OPERATION ",
+		"GRADE": "E7",
+		"PHONE_MOB": "9425823246",
+		"EMAIL_ID": "arvindprakashbharti@ntpc.co.in "
+	},
+	{
+		"EMP_ID": "9769",
+		"EMP_NAME": "AMARDEEP SINGH ",
+		"DEPT_ID": "ELECT MAINT ",
+		"GRADE": "E7",
+		"PHONE_MOB": "9650994357",
+		"EMAIL_ID": "amardeepsingh@ntpc.co.in "
+	},
+	{
+		"EMP_ID": "9585",
+		"EMP_NAME": "DURGESH KUMAR VISHWAKARMA ",
+		"DEPT_ID": "OPERATION ",
+		"GRADE": "E7",
+		"PHONE_MOB": "9415110332",
+		"EMAIL_ID": "dkvishwakarma@ntpc.co.in "
+	},
+	{
+		"EMP_ID": "9817",
+		"EMP_NAME": "RAJESH KUMAR CHAURASIYA ",
+		"DEPT_ID": "FLD. ENGG. ",
+		"GRADE": "E7",
+		"PHONE_MOB": "9415243213",
+		"EMAIL_ID": "rkchaurasiya@ntpc.co.in "
+	},
+	{
+		"EMP_ID": "78563",
+		"EMP_NAME": "Siya Ram Pal ",
+		"DEPT_ID": "ELECT ERECT ",
+		"GRADE": "E7",
+		"PHONE_MOB": "9412771516",
+		"EMAIL_ID": "srpal@ntpc.co.in "
+	},
+	{
+		"EMP_ID": "60899",
+		"EMP_NAME": "Kamala Pati Pandey ",
+		"DEPT_ID": "MECH ERECT ",
+		"GRADE": "E7",
+		"PHONE_MOB": "9453016733",
+		"EMAIL_ID": "kppandey@ntpc.co.in "
+	},
+	{
+		"EMP_ID": "90355",
+		"EMP_NAME": "Sushil Kumar Singh ",
+		"DEPT_ID": "CIVIL CONST ",
+		"GRADE": "E7",
+		"PHONE_MOB": "9415132263",
+		"EMAIL_ID": "sushilksingh@ntpc.co.in "
+	},
+	{
+		"EMP_ID": "57847",
+		"EMP_NAME": "Shiv Kumar Bajpai ",
+		"DEPT_ID": "MECH MAINT ",
+		"GRADE": "E7",
+		"PHONE_MOB": "9450916613",
+		"EMAIL_ID": "skbajpai01@ntpc.co.in "
+	},
+	{
+		"EMP_ID": "57848",
+		"EMP_NAME": "V N Singh ",
+		"DEPT_ID": "ELECT MAINT ",
+		"GRADE": "E7",
+		"PHONE_MOB": "9412771534",
+		"EMAIL_ID": "vishwanathsingh@ntpc.co.in "
+	},
+	{
+		"EMP_ID": "58048",
+		"EMP_NAME": "Uma Shankar ",
+		"DEPT_ID": "CHEMISTRY ",
+		"GRADE": "E7",
+		"PHONE_MOB": "9450925534",
+		"EMAIL_ID": "umashanker@ntpc.co.in "
+	},
+	{
+		"EMP_ID": "90499",
+		"EMP_NAME": "Ram Naresh Sahu ",
+		"DEPT_ID": "C&M ",
+		"GRADE": "E7",
+		"PHONE_MOB": "8004910747",
+		"EMAIL_ID": "rnsahu@ntpc.co.in "
+	},
+	{
+		"EMP_ID": "9894",
+		"EMP_NAME": "Satyam Chandra Bhanu ",
+		"DEPT_ID": "CIVIL CONST ",
+		"GRADE": "E7",
+		"PHONE_MOB": "7525014647",
+		"EMAIL_ID": "satyambhanu@ntpc.co.in "
+	},
+	{
+		"EMP_ID": "9974",
+		"EMP_NAME": "AMAN KUMAR YADAVA ",
+		"DEPT_ID": "ELECT ERECT ",
+		"GRADE": "E7",
+		"PHONE_MOB": "9415130403",
+		"EMAIL_ID": "amanyadava@ntpc.co.in "
+	},
+	{
+		"EMP_ID": "100089",
+		"EMP_NAME": "MAHABIR SINGH ",
+		"DEPT_ID": "MECH ERECT ",
+		"GRADE": "E7",
+		"PHONE_MOB": "9416212274",
+		"EMAIL_ID": "mahabirsingh@ntpc.co.in "
+	},
+	{
+		"EMP_ID": "9987",
+		"EMP_NAME": "ASHUTOSH SINGH BHADORIA ",
+		"DEPT_ID": "O & M ",
+		"GRADE": "E7",
+		"PHONE_MOB": "9412771651",
+		"EMAIL_ID": "asbhadoria@ntpc.co.in "
+	},
+	{
+		"EMP_ID": "100211",
+		"EMP_NAME": "RAVIKANT . ",
+		"DEPT_ID": "C & I ERECT ",
+		"GRADE": "E7",
+		"PHONE_MOB": "7525014514",
+		"EMAIL_ID": "ravikantipec@gmail.com "
+	},
+	{
+		"EMP_ID": "7753",
+		"EMP_NAME": "Amit Kumar Tyagi ",
+		"DEPT_ID": "CHEMISTRY ",
+		"GRADE": "E7",
+		"PHONE_MOB": "9412771419",
+		"EMAIL_ID": "amittyagi01@ntpc.co.in "
+	},
+	{
+		"EMP_ID": "100422",
+		"EMP_NAME": "MANOJ KUMAR MAURYA ",
+		"DEPT_ID": "MECH ERECT ",
+		"GRADE": "E7",
+		"PHONE_MOB": "8004928947",
+		"EMAIL_ID": "mkmaurya@ntpc.co.in "
+	},
+	{
+		"EMP_ID": "100682",
+		"EMP_NAME": "OMKAR UPADHYAY ",
+		"DEPT_ID": "CIVIL CONST ",
+		"GRADE": "E7",
+		"PHONE_MOB": "8756996615",
+		"EMAIL_ID": "omkaru@ntpc.co.in "
+	},
+	{
+		"EMP_ID": "100696",
+		"EMP_NAME": "SHESH NATH YADAV ",
+		"DEPT_ID": "CIVIL CONST ",
+		"GRADE": "E7",
+		"PHONE_MOB": "9621120503",
+		"EMAIL_ID": "sheshnathyadav@ntpc.co.in "
+	},
+	{
+		"EMP_ID": "101039",
+		"EMP_NAME": "ARUN KUMAR ",
+		"DEPT_ID": "P & S ",
+		"GRADE": "E7",
+		"PHONE_MOB": "7388922226",
+		"EMAIL_ID": "arunkumar14@ntpc.co.in "
+	},
+	{
+		"EMP_ID": "100999",
+		"EMP_NAME": "SUDHANSHU ROHELA ",
+		"DEPT_ID": "ELECT ERECT ",
+		"GRADE": "E7",
+		"PHONE_MOB": "9559430865",
+		"EMAIL_ID": "sudhanshurohela@ntpc.co.in "
+	},
+	{
+		"EMP_ID": "101235",
+		"EMP_NAME": "AJEET KUMAR ",
+		"DEPT_ID": "HR ",
+		"GRADE": "E7",
+		"PHONE_MOB": "9621406168",
+		"EMAIL_ID": "ajeet_kumar2k1@rediffmail.com "
+	},
+	{
+		"EMP_ID": "85531",
+		"EMP_NAME": "Ashwini Kumar ",
+		"DEPT_ID": "IT ",
+		"GRADE": "E7",
+		"PHONE_MOB": "9415140388",
+		"EMAIL_ID": "ashwinikumar03@ntpc.co.in "
+	},
+	{
+		"EMP_ID": "80852",
+		"EMP_NAME": "R M Mothilal Bapu ",
+		"DEPT_ID": "FINANCE ",
+		"GRADE": "E7",
+		"PHONE_MOB": "8004912665",
+		"EMAIL_ID": "rmmbapu@ntpc.co.in "
+	},
+	{
+		"EMP_ID": "100570",
+		"EMP_NAME": "NRIPINDER SINGH CHAUHAN ",
+		"DEPT_ID": "C & I ERECT ",
+		"GRADE": "E7",
+		"PHONE_MOB": "9559023021",
+		"EMAIL_ID": "nripinderchauhan@ntpc.co.in "
+	},
+	{
+		"EMP_ID": "100569",
+		"EMP_NAME": "YUGDEEP NARWAT ",
+		"DEPT_ID": "C & I ERECT ",
+		"GRADE": "E7",
+		"PHONE_MOB": "8004912281",
+		"EMAIL_ID": "yugdeepnarwat@ntpc.co.in "
+	},
+	{
+		"EMP_ID": "101135",
+		"EMP_NAME": "ASEEM SHEKHAR SINGH ",
+		"DEPT_ID": "HR ",
+		"GRADE": "E7",
+		"PHONE_MOB": "'1111 ",
+		"EMAIL_ID": "assingh02@ntpc.co.in "
+	},
+	{
+		"EMP_ID": "101348",
+		"EMP_NAME": "NISHANT GOYAL ",
+		"DEPT_ID": "MECH ERECT ",
+		"GRADE": "E7",
+		"PHONE_MOB": "9005144664",
+		"EMAIL_ID": "nishantgoel@ntpc.co.in "
+	},
+	{
+		"EMP_ID": "101829",
+		"EMP_NAME": "SHASHI BHUSHAN ",
+		"DEPT_ID": "ELECT ERECT ",
+		"GRADE": "E7",
+		"PHONE_MOB": "8400434396",
+		"EMAIL_ID": "shashibhushan01@ntpc.co.in "
+	},
+	{
+		"EMP_ID": "101302",
+		"EMP_NAME": "Keshari Nandan Mishra ",
+		"DEPT_ID": "R & R ",
+		"GRADE": "E7",
+		"PHONE_MOB": "9559798517",
+		"EMAIL_ID": "knmishra@ntpc.co.in "
+	},
+	{
+		"EMP_ID": "9529",
+		"EMP_NAME": "BIVADHAN PRASAD ",
+		"DEPT_ID": "MECH ERECT ",
+		"GRADE": "E7",
+		"PHONE_MOB": "8004910838",
+		"EMAIL_ID": "bivadhan@gmail.com "
+	},
+	{
+		"EMP_ID": "45045",
+		"EMP_NAME": "ANIL KUMAR ",
+		"DEPT_ID": "ELECT ERECT ",
+		"GRADE": "E7",
+		"PHONE_MOB": "8333983265",
+		"EMAIL_ID": "anilkumar20@ntpc.co.in "
+	},
+	{
+		"EMP_ID": "57614",
+		"EMP_NAME": "AJAY KUMAR NIGAM ",
+		"DEPT_ID": "CIVIL CONST ",
+		"GRADE": "E7",
+		"PHONE_MOB": "8004926493",
+		"EMAIL_ID": "ajayknigam@ntpc.co.in "
+	},
+	{
+		"EMP_ID": "12308",
+		"EMP_NAME": "Virendra Pal Singh ",
+		"DEPT_ID": "FQA ",
+		"GRADE": "E7",
+		"PHONE_MOB": "9415140667",
+		"EMAIL_ID": "vpsingh10@ntpc.co.in "
+	},
+	{
+		"EMP_ID": "21581",
+		"EMP_NAME": "Dilraj . ",
+		"DEPT_ID": "R & R ",
+		"GRADE": "E7",
+		"PHONE_MOB": "9415140613",
+		"EMAIL_ID": "dilraj@ntpc.co.in "
+	},
+	{
+		"EMP_ID": "58554",
+		"EMP_NAME": "SUNIL GUPTA ",
+		"DEPT_ID": "ELECT ERECT ",
+		"GRADE": "E7",
+		"PHONE_MOB": "9416212229",
+		"EMAIL_ID": "sunilgupta03@ntpc.co.in "
+	},
+	{
+		"EMP_ID": "81065",
+		"EMP_NAME": "VINOD KUMAR TYAGI ",
+		"DEPT_ID": "SAFETY ",
+		"GRADE": "E7",
+		"PHONE_MOB": "7571908600",
+		"EMAIL_ID": "vinodkumartyagi@ntpc.co.in "
+	},
+	{
+		"EMP_ID": "97692",
+		"EMP_NAME": "Sanjay Kumar Mishra ",
+		"DEPT_ID": "ELECT ERECT ",
+		"GRADE": "E7",
+		"PHONE_MOB": "8004926519",
+		"EMAIL_ID": "skmishra08@ntpc.co.in "
+	},
+	{
+		"EMP_ID": "58068",
+		"EMP_NAME": "Sanjay Kumar Srivastava ",
+		"DEPT_ID": "ELECT ERECT ",
+		"GRADE": "E7",
+		"PHONE_MOB": "7080800331",
+		"EMAIL_ID": "sanjaykumarsrivastava@ntpc.co.in "
+	},
+	{
+		"EMP_ID": "102284",
+		"EMP_NAME": "SUDHIR KUMAR . ",
+		"DEPT_ID": "FQA ",
+		"GRADE": "E7",
+		"PHONE_MOB": "7525014531",
+		"EMAIL_ID": "sudhirkumar06@ntpc.co.in "
+	},
+	{
+		"EMP_ID": "102684",
+		"EMP_NAME": "ANKUSH RAJPUT ",
+		"DEPT_ID": "FQA ",
+		"GRADE": "E7",
+		"PHONE_MOB": "7525014530",
+		"EMAIL_ID": "ankushrajput@ntpc.co.in "
+	},
+	{
+		"EMP_ID": "102790",
+		"EMP_NAME": "SHAHRAB ZAHEER ",
+		"DEPT_ID": "MECH ERECT ",
+		"GRADE": "E7",
+		"PHONE_MOB": "9936824313",
+		"EMAIL_ID": "shahrabzaheer@ntpc.co.in "
+	},
+	{
+		"EMP_ID": "102838",
+		"EMP_NAME": "ATUL SINGH ",
+		"DEPT_ID": "CIVIL CONST ",
+		"GRADE": "E7",
+		"PHONE_MOB": "'1111 ",
+		"EMAIL_ID": "atulsingh@ntpc.co.in "
+	},
+	{
+		"EMP_ID": "103039",
+		"EMP_NAME": "Nikhil Mishra ",
+		"DEPT_ID": "CIVIL CONST ",
+		"GRADE": "E7",
+		"PHONE_MOB": "8004928512",
+		"EMAIL_ID": "nikhilmishra@ntpc.co.in "
+	},
+	{
+		"EMP_ID": "57603",
+		"EMP_NAME": "Rajesh Kumar Arora ",
+		"DEPT_ID": "CEO OFFICE ",
+		"GRADE": "E7",
+		"PHONE_MOB": "9415140376",
+		"EMAIL_ID": "rkarora97@gmail.com "
+	},
+	{
+		"EMP_ID": "103138",
+		"EMP_NAME": "SURESH SAIN ",
+		"DEPT_ID": "OPERATION ",
+		"GRADE": "E7",
+		"PHONE_MOB": "7588018162",
+		"EMAIL_ID": "ssain02@ntpc.co.in "
+	},
+	{
+		"EMP_ID": "103166",
+		"EMP_NAME": "DEEPAK AGGARWAL ",
+		"DEPT_ID": "FUEL MANAGMENT ",
+		"GRADE": "E7",
+		"PHONE_MOB": "9403780557",
+		"EMAIL_ID": "deepak.aggarwal1607@gmail.com "
+	},
+	{
+		"EMP_ID": "103674",
+		"EMP_NAME": "ADITYA GUPTA ",
+		"DEPT_ID": "C&M ",
+		"GRADE": "E7",
+		"PHONE_MOB": "9936110444",
+		"EMAIL_ID": "adityaguptahbti@gmail.com "
+	},
+	{
+		"EMP_ID": "97769",
+		"EMP_NAME": "VIJAY KUMAR ",
+		"DEPT_ID": "HR ",
+		"GRADE": "E7",
+		"PHONE_MOB": "8004350000",
+		"EMAIL_ID": "vijaykumar10@ntpc.co.in "
+	},
+	{
+		"EMP_ID": "104190",
+		"EMP_NAME": "MANJARI TRIPATHI ",
+		"DEPT_ID": "MECH ERECT ",
+		"GRADE": "E7",
+		"PHONE_MOB": "7753942919",
+		"EMAIL_ID": "manjaritripathi@ntpc.co.in "
+	},
+	{
+		"EMP_ID": "103918",
+		"EMP_NAME": "AMRAN AHMED ",
+		"DEPT_ID": "ELECT ERECT ",
+		"GRADE": "E7",
+		"PHONE_MOB": "7525014700",
+		"EMAIL_ID": "amranbhat@ntpc.co.in "
+	},
+	{
+		"EMP_ID": "104270",
+		"EMP_NAME": "NISHANT SHAKYA ",
+		"DEPT_ID": "ELECT ERECT ",
+		"GRADE": "E7",
+		"PHONE_MOB": "7080228333",
+		"EMAIL_ID": "nishantshakya@ntpc.co.in "
+	},
+	{
+		"EMP_ID": "104274",
+		"EMP_NAME": "ANKITA SETHI ",
+		"DEPT_ID": "ELECT ERECT ",
+		"GRADE": "E7",
+		"PHONE_MOB": "9198500369",
+		"EMAIL_ID": "ankitasethi@ntpc.co.in "
+	},
+	{
+		"EMP_ID": "104275",
+		"EMP_NAME": "AMBARISH BARNWAL ",
+		"DEPT_ID": "MECH ERECT ",
+		"GRADE": "E7",
+		"PHONE_MOB": "9935476867",
+		"EMAIL_ID": "ambrishbarnwal@yahoo.com "
+	},
+	{
+		"EMP_ID": "11060",
+		"EMP_NAME": "M.Z Khan ",
+		"DEPT_ID": "C&M ",
+		"GRADE": "E7",
+		"PHONE_MOB": "7525014833",
+		"EMAIL_ID": "mzkhan@ntpc.co.in "
+	},
+	{
+		"EMP_ID": "12261",
+		"EMP_NAME": "Dina Nath Yadav ",
+		"DEPT_ID": "CEO OFFICE ",
+		"GRADE": "E7",
+		"PHONE_MOB": "9453005944",
+		"EMAIL_ID": "dnyadav@ntpc.co.in "
+	},
+	{
+		"EMP_ID": "70434",
+		"EMP_NAME": "Jokhan Lal Bharti ",
+		"DEPT_ID": "FINANCE ",
+		"GRADE": "E7",
+		"PHONE_MOB": "9415460191",
+		"EMAIL_ID": "jokhanlalbharti@ntpc.co.in "
+	},
+	{
+		"EMP_ID": "18564",
+		"EMP_NAME": "Kamleshwar Yadav ",
+		"DEPT_ID": "HR ",
+		"GRADE": "E7",
+		"PHONE_MOB": "8004921278",
+		"EMAIL_ID": "kamleshwaryadav@ntpc.co.in "
+	},
+	{
+		"EMP_ID": "13023",
+		"EMP_NAME": "Shesh Mani Shukla ",
+		"DEPT_ID": "FINANCE ",
+		"GRADE": "E7",
+		"PHONE_MOB": "9453007828",
+		"EMAIL_ID": "sheshmanishukla@ntpc.co.in "
+	},
+	{
+		"EMP_ID": "57803",
+		"EMP_NAME": "Mourdhwaj Chaurasia ",
+		"DEPT_ID": "R & R ",
+		"GRADE": "E7",
+		"PHONE_MOB": "9471701218",
+		"EMAIL_ID": "mourdhwajchaurasia@ntpc.co.in "
+	},
+	{
+		"EMP_ID": "78538",
+		"EMP_NAME": "A.K. Prasad ",
+		"DEPT_ID": "PROJ CONST ",
+		"GRADE": "E7",
+		"PHONE_MOB": "'1111 ",
+		"EMAIL_ID": "akprasad02@ntpc.co.in "
+	},
+	{
+		"EMP_ID": "70604",
+		"EMP_NAME": "Virendra Prasad ",
+		"DEPT_ID": "MECH ERECT ",
+		"GRADE": "E7",
+		"PHONE_MOB": "9453017784",
+		"EMAIL_ID": "virendraprasad49@ntpc.co.in "
+	},
+	{
+		"EMP_ID": "70669",
+		"EMP_NAME": "Akhilesh Kumar Srivastava ",
+		"DEPT_ID": "SAFETY ",
+		"GRADE": "E7",
+		"PHONE_MOB": "9453016981",
+		"EMAIL_ID": "akhileshkumarsrivastava@ntpc.co.in "
+	},
+	{
+		"EMP_ID": "11841",
+		"EMP_NAME": "Sunil Kumar ",
+		"DEPT_ID": "MECH ERECT ",
+		"GRADE": "E7",
+		"PHONE_MOB": "'1111 ",
+		"EMAIL_ID": "sunilkumar31@ntpc.co.in "
+	},
+	{
+		"EMP_ID": "12025",
+		"EMP_NAME": "Anil Kumar Singh Yadav ",
+		"DEPT_ID": "C&M ",
+		"GRADE": "E7",
+		"PHONE_MOB": "9453019729",
+		"EMAIL_ID": "anilkumarsinghyadav@ntpc.co.in "
+	},
+	{
+		"EMP_ID": "57777",
+		"EMP_NAME": "Atar Singh ",
+		"DEPT_ID": "ELECT ERECT ",
+		"GRADE": "E7",
+		"PHONE_MOB": "8004923884",
+		"EMAIL_ID": "atarsingh@ntpc.gov.in "
+	},
+	{
+		"EMP_ID": "57550",
+		"EMP_NAME": "Pushpendra Kumar Rai ",
+		"DEPT_ID": "HR ",
+		"GRADE": "E7",
+		"PHONE_MOB": "9471701219",
+		"EMAIL_ID": "pushpendrakumarrai@ntpc.co.in "
+	},
+	{
+		"EMP_ID": "57712",
+		"EMP_NAME": "V. C. Shukla ",
+		"DEPT_ID": "FINANCE ",
+		"GRADE": "E7",
+		"PHONE_MOB": "9455094861",
+		"EMAIL_ID": "vcshukla@ntpc.co.in "
+	},
+	{
+		"EMP_ID": "41104",
+		"EMP_NAME": "Shyama Charan Singh ",
+		"DEPT_ID": "ELECT ERECT ",
+		"GRADE": "E7",
+		"PHONE_MOB": "8004916498",
+		"EMAIL_ID": "scsingh49@ntpc.co.in "
+	},
+	{
+		"EMP_ID": "12883",
+		"EMP_NAME": "Durga Prasad ",
+		"DEPT_ID": "CIVIL CONST ",
+		"GRADE": "E7",
+		"PHONE_MOB": "9453007784",
+		"EMAIL_ID": "durga.sktn@gmail.com "
+	},
+	{
+		"EMP_ID": "12887",
+		"EMP_NAME": "Rajesh Kumar ",
+		"DEPT_ID": "C & I ERECT ",
+		"GRADE": "E7",
+		"PHONE_MOB": "9453007795",
+		"EMAIL_ID": "rajesh12887@gmail.com "
+	},
+	{
+		"EMP_ID": "24979",
+		"EMP_NAME": "V.S. Bhatnagar ",
+		"DEPT_ID": "MECH ERECT ",
+		"GRADE": "E7",
+		"PHONE_MOB": "8795771436",
+		"EMAIL_ID": "vsbhatnagar@ntpc.co.in "
+	},
+	{
+		"EMP_ID": "57948",
+		"EMP_NAME": "Ved Pal Singh ",
+		"DEPT_ID": "ELECT ERECT ",
+		"GRADE": "E7",
+		"PHONE_MOB": "9415706118",
+		"EMAIL_ID": "vedpalsingh@ntpc.co.in "
+	},
+	{
+		"EMP_ID": "78576",
+		"EMP_NAME": "Shameem Khan ",
+		"DEPT_ID": "MECH ERECT ",
+		"GRADE": "E7",
+		"PHONE_MOB": "7080249222",
+		"EMAIL_ID": "shameemkhan@ntpc.gov.in "
+	},
+	{
+		"EMP_ID": "70364",
+		"EMP_NAME": "Murli Dhar Dubey ",
+		"DEPT_ID": "FLD. ENGG. ",
+		"GRADE": "E7",
+		"PHONE_MOB": "9453017931",
+		"EMAIL_ID": "murlidhardubey@ntpc.co.in "
+	},
+	{
+		"EMP_ID": "71155",
+		"EMP_NAME": "Prabhas Chandra Thakur ",
+		"DEPT_ID": "FINANCE ",
+		"GRADE": "E7",
+		"PHONE_MOB": "9453019459",
+		"EMAIL_ID": "prabhaschandrathakur@ntpc.co.in "
+	},
+	{
+		"EMP_ID": "12904",
+		"EMP_NAME": "Bhanu Pratap Singh ",
+		"DEPT_ID": "ELECT ERECT ",
+		"GRADE": "E7",
+		"PHONE_MOB": "9453007949",
+		"EMAIL_ID": "bhanu_ntpc@rediffmail.com "
+	},
+	{
+		"EMP_ID": "4674",
+		"EMP_NAME": "Surender Kumar Katyal ",
+		"DEPT_ID": "FUEL MANAGMENT ",
+		"GRADE": "E7",
+		"PHONE_MOB": "9650990674",
+		"EMAIL_ID": "surenderkumarkatyal@ntpc.co.in "
+	},
+	{
+		"EMP_ID": "80585",
+		"EMP_NAME": "Ram Chander ",
+		"DEPT_ID": "COMMS & TEST. ",
+		"GRADE": "E7",
+		"PHONE_MOB": "9650995191",
+		"EMAIL_ID": "ramchander38@ntpc.co.in "
+	},
+	{
+		"EMP_ID": "61124",
+		"EMP_NAME": "Jagdish Prasad Mishra ",
+		"DEPT_ID": "C&M ",
+		"GRADE": "E7",
+		"PHONE_MOB": "8004926793",
+		"EMAIL_ID": "jagdishprasadmishra@ntpc.co.in "
+	},
+	{
+		"EMP_ID": "18636",
+		"EMP_NAME": "Hari Shankar Patel ",
+		"DEPT_ID": "HR ",
+		"GRADE": "E7",
+		"PHONE_MOB": "8004926379",
+		"EMAIL_ID": "harishankarpatel50@ntpc.co.in "
+	},
+	{
+		"EMP_ID": "61123",
+		"EMP_NAME": "Ashutosh Kumar Pandey ",
+		"DEPT_ID": "C&M ",
+		"GRADE": "E7",
+		"PHONE_MOB": "9451083237",
+		"EMAIL_ID": "ashutoshkumarpandey@ntpc.co.in "
+	},
+	{
+		"EMP_ID": "70627",
+		"EMP_NAME": "Awanish Kumar Singh ",
+		"DEPT_ID": "C&M ",
+		"GRADE": "E7",
+		"PHONE_MOB": "8004921093",
+		"EMAIL_ID": "avnishkumarsingh@ntpc.co.in "
+	}
+]

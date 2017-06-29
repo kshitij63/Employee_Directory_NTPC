@@ -38,7 +38,7 @@ public class EmployeAdapter extends ArrayAdapter<Employe> {
         TextView textView=(TextView) convertView.findViewById(R.id.name);
         TextView textView1=(TextView) convertView.findViewById(R.id.grade);
         TextView textView2=(TextView) convertView.findViewById(R.id.department);
-        Picasso.with(context).load(employes.get(position).getPhoto()).into(imageView);
+        Picasso.with(context).load(R.drawable.na).into(imageView);
         textView.setText(employes.get(position).getName());
         textView2.setText(employes.get(position).getDepartment());
         textView1.setText(employes.get(position).getGrade());
