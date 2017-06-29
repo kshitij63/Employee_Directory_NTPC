@@ -4,5 +4,6 @@
     <string-array name="grade">
         <item>E8</item>
         <item>E7</item>
+        <item>NONE</item>
             </string-array>
 </resources>

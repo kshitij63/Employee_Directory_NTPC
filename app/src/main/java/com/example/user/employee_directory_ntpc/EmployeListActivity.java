@@ -110,24 +110,59 @@ cr.close();
             for(int i=0;i<array.length();i++){
                 JSONObject object=array.getJSONObject(i);
                 if(object.has("EMP_ID")) {
-                    Log.e("nope",object.getString("EMP_NAME") +object.getString("DEPT_ID"));
+                    //Log.e("nope",object.getString("EMP_NAME") +object.getString("DEPT_ID"));
 //                    Log.e("yes",object.getString("EMP_NAME") +object.getString("DEP_ID"));
+                    if (grade.equals("NONE") && !department.equals("NONE")) {
 
+                        if (Pattern.compile(Pattern.quote(name), Pattern.CASE_INSENSITIVE).matcher(object.getString("EMP_NAME").trim()).find() && department.equals(object.getString("DEPT_ID"))) {
+                            Employe employe = new Employe("ghyy", object.getString("EMP_NAME"), object.getString("DEPT_ID"), object.getString("GRADE"));
+                            Employe employe1 = new Employe("ghyy", object.getString("EMP_NAME"), object.getString("DEPT_ID"), object.getString("GRADE"), object.getString("PHONE_MOB"), object.getString("EMAIL_ID"), object.getString("PHONE_MOB"), "N/A", "N/A", "N/A", "N/A", object.getString("EMP_ID"));
+                            detail_em.add(employe1);
+                            employes.add(employe);
 
-                    if (Pattern.compile(Pattern.quote(name), Pattern.CASE_INSENSITIVE).matcher(object.getString("EMP_NAME").trim()).find() && grade.equals(object.getString("GRADE")) && department.equals(object.getString("DEPT_ID")) ) {
-                        Log.e("yes",object.getString("EMP_NAME") +object.getString("DEPT_ID"));
-                        Employe employe = new Employe("ghyy", object.getString("EMP_NAME"), object.getString("DEPT_ID"), object.getString("GRADE"));
-                        Employe employe1=new Employe("ghyy",object.getString("EMP_NAME"),object.getString("DEPT_ID"),object.getString("GRADE"),object.getString("PHONE_MOB"),object.getString("EMAIL_ID"),object.getString("PHONE_MOB"),"N/A","N/A","N/A","N/A",object.getString("EMP_ID"));
-                        detail_em.add(employe1);
-                        employes.add(employe);
-                        //name.equalsIgnoreCase(object.getString("EMP_NAME").trim())
+                        }
+                    } else if (!grade.equals("NONE") && department.equals("NONE")) {
+                        if (Pattern.compile(Pattern.quote(name), Pattern.CASE_INSENSITIVE).matcher(object.getString("EMP_NAME").trim()).find() && grade.equals(object.getString("GRADE"))) {
+                            {
+                                Employe employe = new Employe("ghyy", object.getString("EMP_NAME"), object.getString("DEPT_ID"), object.getString("GRADE"));
+                                Employe employe1 = new Employe("ghyy", object.getString("EMP_NAME"), object.getString("DEPT_ID"), object.getString("GRADE"), object.getString("PHONE_MOB"), object.getString("EMAIL_ID"), object.getString("PHONE_MOB"), "N/A", "N/A", "N/A", "N/A", object.getString("EMP_ID"));
+                                detail_em.add(employe1);
+                                employes.add(employe);
+                            }
+                        }
+
+                    } else if (grade.equals("NONE") && department.equals("NONE")) {
+                        if (Pattern.compile(Pattern.quote(name), Pattern.CASE_INSENSITIVE).matcher(object.getString("EMP_NAME").trim()).find()) {
+
+                            Employe employe = new Employe("ghyy", object.getString("EMP_NAME"), object.getString("DEPT_ID"), object.getString("GRADE"));
+                            Employe employe1 = new Employe("ghyy", object.getString("EMP_NAME"), object.getString("DEPT_ID"), object.getString("GRADE"), object.getString("PHONE_MOB"), object.getString("EMAIL_ID"), object.getString("PHONE_MOB"), "N/A", "N/A", "N/A", "N/A", object.getString("EMP_ID"));
+                            detail_em.add(employe1);
+                            employes.add(employe);
+
+                        }
                     }
-                    listView.setAdapter(new EmployeAdapter(EmployeListActivity.this,employes));
-                    Log.e("ru",employes.size()+"");
-                    Log.e("ru",detail_em.size() +"");
+                    else {
+                        if (Pattern.compile(Pattern.quote(name), Pattern.CASE_INSENSITIVE).matcher(object.getString("EMP_NAME").trim()).find() && grade.equals(object.getString("GRADE")) && department.equals(object.getString("DEPT_ID"))) {
+                            Log.e("yes", object.getString("EMP_NAME") + object.getString("DEPT_ID"));
+                            Employe employe = new Employe("ghyy", object.getString("EMP_NAME"), object.getString("DEPT_ID"), object.getString("GRADE"));
+                            Employe employe1 = new Employe("ghyy", object.getString("EMP_NAME"), object.getString("DEPT_ID"), object.getString("GRADE"), object.getString("PHONE_MOB"), object.getString("EMAIL_ID"), object.getString("PHONE_MOB"), "N/A", "N/A", "N/A", "N/A", object.getString("EMP_ID"));
+                            detail_em.add(employe1);
+                            employes.add(employe);
+                            //name.equalsIgnoreCase(object.getString("EMP_NAME").trim())
+                        }
+                        Log.e("ru", employes.size() + "");
+                        Log.e("ru", detail_em.size() + "");
+                    }
                 }
 
+                }
+            if(employes.size()==0){
+                Toast.makeText(EmployeListActivity.this,"NO employe found!!",Toast.LENGTH_LONG).show();
+
+
             }
+            listView.setAdapter(new EmployeAdapter(EmployeListActivity.this,employes));
+
 
 
         } catch (JSONException e) {

@@ -148,6 +148,7 @@ ArrayAdapter<CharSequence> departmentAdapter;
                 else {
                     hs.add("N/A");
                 }
+                hs.add("NONE");
 
 //                departments[i] = dept_id;
                 //departmentAdapter.add(departments[i]);
