@@ -58,6 +58,7 @@ ArrayAdapter<CharSequence> departmentAdapter;
         gradeAdapter.setDropDownViewResource(android.R.layout.simple_spinner_dropdown_item);
 
         spinner_grade.setAdapter(gradeAdapter);
+        spinner_grade.setSelection(gradeAdapter.getPosition("NONE"));
 
         //put_dummy_data();
         //put_dummy_data();
@@ -135,6 +136,7 @@ ArrayAdapter<CharSequence> departmentAdapter;
 
         try {
             Set<String> hs=new HashSet<>();
+            hs.add("NONE");
 
             array = new JSONArray(loadJSONFromAsset());
             departments = new String[array.length()];
@@ -148,7 +150,7 @@ ArrayAdapter<CharSequence> departmentAdapter;
                 else {
                     hs.add("N/A");
                 }
-                hs.add("NONE");
+                //hs.add("NONE");
 
 //                departments[i] = dept_id;
                 //departmentAdapter.add(departments[i]);
@@ -164,27 +166,12 @@ for(int i=0;i<departments.length;i++){
             departmentAdapter.setDropDownViewResource(android.R.layout.simple_spinner_dropdown_item);
 
             spinner.setAdapter(departmentAdapter);
+            spinner.setSelection(departmentAdapter.getPosition("NONE"));
 
 
         }catch (JSONException e) {
             Log.e("error",e.getMessage());
         }
-
-        //hs.addAll(grades);
-        //grades.clear();
-        //departments=  hs.toArray(new String[hs.size()]);
-  //      if(departments[3].equals("")){
-          //  Log.e("ka",hs.size() +"");
-//        }
-
-        //for(int i=0;i<grades.size();i++){
-          //  departments[i]=grades.get(i);
-
-//Log.e("called",departments[i]);
-  //      }
-       // for(int i=0;i<departments.length;i++){
-         //   Log.e("clear",departments[i]);
-       // }
 
 
     }
