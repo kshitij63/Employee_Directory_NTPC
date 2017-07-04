@@ -88,12 +88,6 @@ public class Employe implements  Parcelable {
         this.grade=grade;
     }
 
-   // protected Employe(Parcel in) {
-     //   photo = in.readString();
-       // name = in.readString();
-       // department = in.readString();
-       // grade = in.readString();
-    //}
     protected Employe(Parcel in) {
         photo = in.readString();
         name = in.readString();
@@ -107,15 +101,6 @@ public class Employe implements  Parcelable {
         phone_office=in.readString();
         phone_resident=in.readString();
         qmr_num=in.readString();
-       // phone_call=in.readString();
-
-       // String phone_message;
-        //String email;
-        //String rax_office;
-       // String rax_resident;
-        //String phone_office;
-        //String phone_resident;
-        //String qmr_num;
 
     }
 

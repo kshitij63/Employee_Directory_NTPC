@@ -18,6 +18,7 @@ import org.json.JSONObject;
 
 import java.io.IOException;
 import java.io.InputStream;
+import java.io.UnsupportedEncodingException;
 import java.util.ArrayList;
 import java.util.regex.Pattern;
 
@@ -49,11 +50,11 @@ public class EmployeListActivity extends AppCompatActivity {
         db=helper.getReadableDatabase();
         Bundle bundle=getIntent().getExtras();
         name=bundle.getString("name");
-       // mobile=bundle.getString("mobile");
+
         grade=bundle.getString("grade");
         department=bundle.getString("department");
         Log.e("this",name+mobile+grade+department);
-    //find_dummy_data();
+
         listView.setOnItemClickListener(new AdapterView.OnItemClickListener() {
             @Override
             public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
@@ -76,23 +77,15 @@ if(cr.moveToFirst()){
         email=cr.getString(cr.getColumnIndex("email"));
         phone_message=cr.getString(cr.getColumnIndex("mobile_sms"));
 
-        //rax_office=cr.getString(cr.getColumnIndex("email"));
-        //rax_resident=cr.getString(cr.getColumnIndex("email"));
         phone_office=cr.getString(cr.getColumnIndex("phone_o"));
         phone_resident=cr.getString(cr.getColumnIndex("phone_r"));
         rax_resident=cr.getString(cr.getColumnIndex("rax_r"));
         rax_office=cr.getString(cr.getColumnIndex("rax_o"));
         qmr_num=cr.getString(cr.getColumnIndex("qtr_num"));
-        //db.execSQL("create table employee(_id integer primary key autoincrement,name text,grade " +
-          //      "text,department text,photo text,mobile_call " +
-            //    "text,mobile_sms text,email text,phone_r text,phone_o text,rax_o text,rax_r text,qtr_num text)");
 
 
 
         Employe employe=new Employe(photo,name,department,grade);employes.add(employe);
-//    detail_em.add(employe1);
-        //public Employe(String photo,String name,String department,String grade,String phone_call,String email,String
-      //      phone_message,String phone_office,String phone_resident,String rax_office,String rax_resident,String qmr_num){
 
     }while (cr.moveToNext());
 }
@@ -110,8 +103,6 @@ cr.close();
             for(int i=0;i<array.length();i++){
                 JSONObject object=array.getJSONObject(i);
                 if(object.has("EMP_ID")) {
-                    //Log.e("nope",object.getString("EMP_NAME") +object.getString("DEPT_ID"));
-//                    Log.e("yes",object.getString("EMP_NAME") +object.getString("DEP_ID"));
                     if (grade.equals("NONE") && !department.equals("NONE")) {
 
                         if (Pattern.compile(Pattern.quote(name), Pattern.CASE_INSENSITIVE).matcher(object.getString("EMP_NAME").trim()).find() && department.equals(object.getString("DEPT_ID"))) {
@@ -148,7 +139,6 @@ cr.close();
                             Employe employe1 = new Employe("ghyy", object.getString("EMP_NAME"), object.getString("DEPT_ID"), object.getString("GRADE"), object.getString("PHONE_MOB"), object.getString("EMAIL_ID"), object.getString("PHONE_MOB"), "N/A", "N/A", "N/A", "N/A", object.getString("EMP_ID"));
                             detail_em.add(employe1);
                             employes.add(employe);
-                            //name.equalsIgnoreCase(object.getString("EMP_NAME").trim())
                         }
                         Log.e("ru", employes.size() + "");
                         Log.e("ru", detail_em.size() + "");
@@ -167,6 +157,8 @@ cr.close();
 
         } catch (JSONException e) {
             Log.e("error",e.getMessage());
+        } catch (UnsupportedEncodingException e) {
+            Log.e(":message",e.getMessage().toString());
         }
 
     }

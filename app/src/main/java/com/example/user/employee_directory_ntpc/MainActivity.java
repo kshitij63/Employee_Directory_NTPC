@@ -29,7 +29,6 @@ import static android.R.attr.button;
 public class MainActivity extends AppCompatActivity {
 Spinner spinner,spinner_grade;
     Button bt;
-           // ArrayList<String> mecu;
     EditText name;
     String grade,department;
     String [] departments,grades;
@@ -43,26 +42,16 @@ ArrayAdapter<CharSequence> departmentAdapter;
         spinner=(Spinner) findViewById(R.id.spinner_dept);
 
             gradest();
-        // catch (JSONException e) {
-          //  Log.e("erroe",e.getMessage());
-        //}
-//        for(int i=0;i<mecu.size();i++){
-  //          Log.e("we",mecu.get(i));
-    //    }
         name=(EditText) findViewById(R.id.edit_text_name);
-        //mobile=(EditText) findViewById(R.id.edit_text_mobile);
+
         spinner_grade=(Spinner) findViewById(R.id.spinner_grade);
         grades=getResources().getStringArray(R.array.grade);
-        //departments=getResources().getStringArray(R.array.dept);
         ArrayAdapter<CharSequence> gradeAdapter=ArrayAdapter.createFromResource(this,R.array.grade,R.layout.support_simple_spinner_dropdown_item);
         gradeAdapter.setDropDownViewResource(android.R.layout.simple_spinner_dropdown_item);
 
         spinner_grade.setAdapter(gradeAdapter);
         spinner_grade.setSelection(gradeAdapter.getPosition("NONE"));
 
-        //put_dummy_data();
-        //put_dummy_data();
-        //put_dummy_data();
 
         spinner.setOnItemSelectedListener(new AdapterView.OnItemSelectedListener() {
             @Override
@@ -130,8 +119,6 @@ ArrayAdapter<CharSequence> departmentAdapter;
     private  void gradest()  {
 
 
-        //ArrayList<String> grades=new ArrayList<>();
-        //ArrayList<String> we=new ArrayList<>();
         JSONArray array= null;
 
         try {
@@ -150,12 +137,6 @@ ArrayAdapter<CharSequence> departmentAdapter;
                 else {
                     hs.add("N/A");
                 }
-                //hs.add("NONE");
-
-//                departments[i] = dept_id;
-                //departmentAdapter.add(departments[i]);
-
-            //    Log.e("yeaaaah", departments[i]);
 
             }
             departments=hs.toArray(new String[hs.size()]);
