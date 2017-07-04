@@ -1,9 +1,11 @@
 package com.example.user.employee_directory_ntpc;
 
 import android.content.Intent;
+import android.graphics.BitmapFactory;
 import android.net.Uri;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.util.Base64;
 import android.view.View;
 import android.widget.ImageView;
 import android.widget.TextView;
@@ -26,7 +28,13 @@ ArrayList<Employe> employes;
         employes=bundle.getParcelableArrayList("list");
         position=bundle.getInt("position");
         employe=employes.get(position);
+        if(employes.get(position).getPhoto()=="hujj"){
         Picasso.with(this).load(R.drawable.na).into((ImageView) findViewById(R.id.image_de));
+        }
+        else {
+            ((ImageView) findViewById(R.id.image_de)).setImageBitmap(BitmapFactory.decodeByteArray(Base64.decode(employes.get(position).getPhoto(),0),0,Base64.decode(employes.get(position).getPhoto(),0).length));
+
+        }
         name=(TextView) findViewById(R.id.name_de);
         grade=(TextView) findViewById(R.id.garde_de);
         deapartment=(TextView) findViewById(R.id.dep_de);
